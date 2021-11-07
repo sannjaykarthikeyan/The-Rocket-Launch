@@ -10,4 +10,6 @@ Demo video included in repository.
 
         pip install pygame
         
+If any other modules/packages are missing, install them.
+        
 3. Run 'TheRocketLaunch.py' in your IDE of choice.
